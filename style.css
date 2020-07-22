@@ -7,3 +7,9 @@ body{
 header{
   text-align: center;
 }
+h1{
+  font-size: 36px;
+  padding: 15px;
+  color: #8c6b48;
+  background-color: white;
+}
